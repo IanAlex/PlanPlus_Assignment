@@ -1,7 +1,6 @@
-# PlanPlus_Assignment
-An Assignment completed as part of the Java Developer position application
+# Spring Rest Sample Project
 
-This assignment is a web application which uses Spring Rest so that form data can be entered and visually retrieved (on a web page) using the Spring 
+This project is a web application which uses Spring 4.0 Rest so that form data can be entered and visually retrieved (on a web page) using the Spring 
 Rest Service and the database.
 
 From a user's perspective it works as follows (from my local environment) after starting Tomcat and deploying the IanPlanPlus.war file:
