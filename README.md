@@ -1,4 +1,4 @@
-# Spring Rest Sample Project
+# Spring Rest Sample Project 
 
 This project is a web application which uses Spring 4.0 Rest so that form data can be entered and visually retrieved (on a web page) using the Spring 
 Rest Service and the database.

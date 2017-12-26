@@ -1,6 +1,6 @@
-CREATE DATABASE ija_planplus;
+CREATE DATABASE ija_springrest;
 
-USE ija_planplus;
+USE ija_springrest;
 
 CREATE TABLE Employee(
   `employeeid` int(11) NOT NULL AUTO_INCREMENT,
